@@ -77,8 +77,8 @@ All queries are stored here : [SQL_Queries](https://github.com/NikhilRoyDA/Data-
 
 ---
 
-## 📈 Visuals & Results  
-[Insights]https://github.com/NikhilRoyDA/Data-Bank-SQL-Case-Study/blob/main/Visual%20%26%20Insights.pdf 
+## 📈 Visuals & Results : [Insights](https://github.com/NikhilRoyDA/Data-Bank-SQL-Case-Study/blob/main/Visual%20%26%20Insights.pdf)
+
 *Sample result: Transaction distribution by type and region.*  
 
 ---
