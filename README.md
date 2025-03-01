@@ -39,8 +39,7 @@ The database consists of 3 tables:
 ---
 
 ## 🔍 SQL Queries & Insights  
-All queries are stored in the [`SQL_Queries`](SQL_Queries/) folder.  
-[[`Queries & Solutions.sql/)](https://github.com/NikhilRoyDA/Data-Bank-SQL-Case-Study/blob/main/Queries%20%26%20Solutions.sql)
+All queries are stored here : [`SQL_Queries](https://github.com/NikhilRoyDA/Data-Bank-SQL-Case-Study/blob/main/Queries%20%26%20Solutions.sql)
 
 ### **Key Questions Solved**  
 1. **Unique Nodes in Network**  
