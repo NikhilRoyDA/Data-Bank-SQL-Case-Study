@@ -39,7 +39,7 @@ The database consists of 3 tables:
 ---
 
 ## 🔍 SQL Queries & Insights  
-All queries are stored here : [`SQL_Queries](https://github.com/NikhilRoyDA/Data-Bank-SQL-Case-Study/blob/main/Queries%20%26%20Solutions.sql)
+All queries are stored here : [SQL_Queries](https://github.com/NikhilRoyDA/Data-Bank-SQL-Case-Study/blob/main/Queries%20%26%20Solutions.sql)
 
 ### **Key Questions Solved**  
 1. **Unique Nodes in Network**  
@@ -78,7 +78,7 @@ All queries are stored here : [`SQL_Queries](https://github.com/NikhilRoyDA/Data
 ---
 
 ## 📈 Visuals & Results  
-![Transaction Trends](media/transaction_trends.png)  
+[Insights]https://github.com/NikhilRoyDA/Data-Bank-SQL-Case-Study/blob/main/Visual%20%26%20Insights.pdf 
 *Sample result: Transaction distribution by type and region.*  
 
 ---
