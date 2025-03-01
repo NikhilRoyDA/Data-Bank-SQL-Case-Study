@@ -40,6 +40,7 @@ The database consists of 3 tables:
 
 ## 🔍 SQL Queries & Insights  
 All queries are stored in the [`SQL_Queries`](SQL_Queries/) folder.  
+[`Queries & Solutions.sql/)
 
 ### **Key Questions Solved**  
 1. **Unique Nodes in Network**  
